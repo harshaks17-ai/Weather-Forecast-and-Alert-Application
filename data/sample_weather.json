@@ -1,0 +1,19 @@
+{
+  "city": "Demo City",
+  "country": "Demo",
+  "source": "Offline demo data (not a live observation)",
+  "current": {
+    "temperature_c": 38.0,
+    "feels_like_c": 41.0,
+    "humidity_pct": 84,
+    "wind_kmh": 18.0,
+    "weather": "Mainly clear"
+  },
+  "daily_forecast": [
+    {"date": "day-1", "temp_max_c": 38, "temp_min_c": 27, "rain_probability_pct": 78, "precipitation_mm": 0.0, "max_wind_kmh": 18},
+    {"date": "day-2", "temp_max_c": 36, "temp_min_c": 26, "rain_probability_pct": 85, "precipitation_mm": 8.2, "max_wind_kmh": 24},
+    {"date": "day-3", "temp_max_c": 34, "temp_min_c": 25, "rain_probability_pct": 30, "precipitation_mm": 0.0, "max_wind_kmh": 56},
+    {"date": "day-4", "temp_max_c": 32, "temp_min_c": 24, "rain_probability_pct": 20, "precipitation_mm": 0.0, "max_wind_kmh": 20},
+    {"date": "day-5", "temp_max_c": 31, "temp_min_c": 23, "rain_probability_pct": 65, "precipitation_mm": 4.5, "max_wind_kmh": 22}
+  ]
+}
